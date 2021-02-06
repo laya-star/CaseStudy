@@ -1,3 +1,8 @@
 img{
     width:450px;
 }
+body{
+    background:linear-gradient(#f1f59f 0%, #fabc2a 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
